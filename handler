@@ -1,0 +1,1 @@
+loadstring(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/VogelTechRBLX/Core/master/BanList?token=AP6XWFD63VIG6EGGRYSV6A267CPUU"))()
