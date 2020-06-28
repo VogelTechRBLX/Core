@@ -1,0 +1,5 @@
+local bans = {'Qxeric'}
+
+for i, player in pairs(bans) do
+  table.insert(bansList, player)
+end
