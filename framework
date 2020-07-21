@@ -1,5 +1,0 @@
-local bans = {''}
-
-for i, player in pairs(bans) do
-  table.insert(bansList, player)
-end
